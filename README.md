@@ -1,0 +1,1 @@
+# emlak_tahmin_modeli
